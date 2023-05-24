@@ -12,7 +12,7 @@
  *
  */
 
-namespace EvolutionPHP\MurmushHash3;
+namespace EvolutionPHP\MurmurHash3;
 
 class Murmur {
 
