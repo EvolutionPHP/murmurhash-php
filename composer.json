@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lastguest\\": "src/lastguest/"
+            "EvolutionPHP\\MurmushHash3\\": "src/"
         }
     }
 }
