@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EvolutionPHP\\MurmushHash3\\": "src/"
+            "EvolutionPHP\\MurmurHash3\\": "src/"
         }
     }
 }
