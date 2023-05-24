@@ -1,5 +1,5 @@
 {
-    "name":          "evolutionphp/murmurhash",
+    "name":          "evolutionphp/murmurhash-php",
     "type":          "library",
     "description":   "MurmurHash3 Hash",
     "keywords":      [
